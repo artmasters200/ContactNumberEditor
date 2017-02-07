@@ -1,4 +1,4 @@
-# ContactNumberEditor
+# ContactNumberEditor (Android App)
 
 This project changes the phone contact type into custom text:
 * it displays the original text with network carrier (ex. Globe, Smart or Sun)
