@@ -1,4 +1,4 @@
-# ContactType Changer (Android App)
+# ContactType Changer - Philippines (Android App)
 
 This project changes the phone contact type into custom text:
 * it displays the original text with network carrier (ex. Globe, Smart or Sun)
@@ -13,3 +13,4 @@ Future releases:
 * Sorted Names or Number or Carrier
 * Search by Name or Number
 * Contact Number formatting
+* Support other countries with similar pattern (prefixes) like us (Philippines)
